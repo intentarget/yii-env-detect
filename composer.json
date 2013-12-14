@@ -1,0 +1,11 @@
+{
+    "name": "robhsiao/yii-env",
+    "type": "library",
+    "version": "master",
+    "description": "A library for Yii bootstarp script to detect application environment",
+    "autoload": {
+        "classmap": [
+            "Environment.php"
+        ]
+    }
+}
