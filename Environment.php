@@ -29,7 +29,7 @@ class Environment {
             'config' => 'stage.php',
         ),
         array( /* PRODUCTION */
-            'debug' => true,
+            'debug' => false,
             'trace' => 3,
             'config' => 'main.php'
         ),
