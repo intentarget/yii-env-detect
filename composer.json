@@ -1,5 +1,5 @@
 {
-    "name": "robhsiao/yii-env",
+    "name": "robhsiao/yii-env-detect",
     "type": "library",
     "version": "master",
     "description": "A library for Yii bootstarp script to detect application environment",
